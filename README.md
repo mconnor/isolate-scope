@@ -1,6 +1,6 @@
 # angular-seed — the seed for AngularJS apps
 
-I'm using the angular-seed repo to play around with AngularJS routing.
+I'm using the angular-seed repo to play around with AngularJS routing and isolate scope
 
 Mike Connor
 
